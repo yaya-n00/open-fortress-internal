@@ -1,6 +1,7 @@
 #pragma once
 
 #include "../Includes/gametrace.h"
+#include "../../Util/Offsets/Offsets.h"
 
 struct ScreenFade_t;
 class CEngineSprite;

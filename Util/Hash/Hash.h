@@ -1,5 +1,7 @@
 #pragma once
 #include <cstdint>
+#include <cstring>
+
 using FNV1A_t = std::uint32_t;
 
 namespace FNV1A {

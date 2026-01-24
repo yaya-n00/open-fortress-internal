@@ -1,6 +1,7 @@
 #pragma once
 
 #include "../../Util/Util.h"
+#include "../../Util/Math/Math.h"
 
 #define MAX_PLAYERS 33
 

@@ -4,6 +4,7 @@
 #include "Globals.h"
 #include "Interfaces/IClientMode.h"
 #include "../Util/Math/Math.h"
+#include "../Util/Offsets/Offsets.h"
 
 namespace I { inline void* TFGameMovement = nullptr; }
 

@@ -19,8 +19,8 @@ namespace Hooks
 		}
 	}
 
-	void Initialize()
-	{
-		// We'll hook this from the vftable later
-	}
+	//void Initialize()
+	//{
+	//	// We'll hook this from the vftable later
+	//}
 }
